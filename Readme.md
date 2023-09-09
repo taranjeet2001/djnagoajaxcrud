@@ -1,0 +1,1 @@
+# **This a django Project with ajax**
