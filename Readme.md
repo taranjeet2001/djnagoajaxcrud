@@ -1,1 +1,1 @@
-# **This a django Project with ajax**
+# **This is a django ajax crud project **
